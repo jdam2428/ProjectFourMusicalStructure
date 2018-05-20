@@ -35,7 +35,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:src="@drawable/artists" />
+            android:background="@color/background_color"
+            android:src="@drawable/artists1" />
 
         <View
             android:layout_width="10dp"
@@ -46,7 +47,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:src="@drawable/albums" />
+            android:src="@drawable/albums1" />
 
     </LinearLayout>
 
@@ -88,7 +89,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:src="@drawable/songs" />
+            android:src="@drawable/songs1" />
 
         <View
             android:layout_width="10dp"
@@ -101,7 +102,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:src="@drawable/genres" />
+            android:src="@drawable/genres1" />
 
     </LinearLayout>
 

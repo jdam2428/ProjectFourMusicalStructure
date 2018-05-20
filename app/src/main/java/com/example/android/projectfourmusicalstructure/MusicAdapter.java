@@ -38,7 +38,7 @@ public class MusicAdapter extends ArrayAdapter<Music> {
         ImageView image = listItemView.findViewById(R.id.image);
         image.getDrawable();
 
-        View textContainer = listItemView.findViewById(R.id.text_container);
+
 
         return listItemView;
 
