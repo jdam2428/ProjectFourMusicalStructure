@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjectFourMusicalStructure</string>
+    <string name="home">Home</string>
+    <string name="artists">Artists</string>
+    <string name="albums">Albums</string>
+    <string name="songs">Songs</string>
+    <string name="genres">Genres</string>
+    <string name="playlist">Playlist</string>
+</resources>
