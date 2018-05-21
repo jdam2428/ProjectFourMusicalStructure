@@ -38,8 +38,6 @@ public class MusicAdapter extends ArrayAdapter<Music> {
         ImageView image = listItemView.findViewById(R.id.image);
         image.getDrawable();
 
-
-
         return listItemView;
 
     }
